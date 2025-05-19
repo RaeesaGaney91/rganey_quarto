@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "posts/2025-05-19-my-first-blog-post/index.html",
+    "href": "posts/2025-05-19-my-first-blog-post/index.html",
+    "title": "My first blog post",
+    "section": "",
+    "text": "library(biplotEZ)\n\nWelcome to biplotEZ! \nThis package is used to construct biplots \nRun ?biplot or vignette() for more information\n\n\n\nAttaching package: 'biplotEZ'\n\n\nThe following object is masked from 'package:stats':\n\n    biplot\n\nbiplot(iris) |> PCA() |> plot()"
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks and Seminars",
+    "section": "",
+    "text": "date\n      title\n      location\n      details\n    \n  \n  \n    May 2025\nVisualising Group Separation in High Dimensions: Canonical Variate Analysis Biplots via the Generalised Singular Value Decomposition\nMonash University\nNUMBATS Seminar"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Raeesa Ganey",
+    "section": "",
+    "text": "Raeesa Ganey is a Lecturer of Statistics at the University of Witwatersrand."
+  },
+  {
+    "objectID": "education.html",
+    "href": "education.html",
+    "title": "Education",
+    "section": "",
+    "text": "Year\nDegree\nInstitution\n\n\n\n\n2011\nB.Sc Actuarial Science\nNorth-West University, Potchefstroom\n\n\n2012\nBCom Honours Statistics\nUniversity of Cape Town\n\n\n2014\nM.Sc (Statistics)\nUniversity of Cape Town\n\n\n2020\nPh.D (Statistics)\nUniversity of Cape Town"
+  },
+  {
+    "objectID": "education.html#awards",
+    "href": "education.html#awards",
+    "title": "Education",
+    "section": "Awards",
+    "text": "Awards\n2025\nDistinguished Teachers Award in the Faculty of Science \nUniversity of Witwatersrand"
+  },
+  {
+    "objectID": "education.html#visits",
+    "href": "education.html#visits",
+    "title": "Education",
+    "section": "Visits",
+    "text": "Visits\n\n\n\nDates\nInstitution\n\n\n\n\nMay 19-30, 2025\nMonash University, Melbourne, Australia"
+  },
+  {
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "home",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Raeesa Ganey",
+    "section": "",
+    "text": "My first blog post\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\n19 May 2025\n\n\nRaeesa Ganey\n\n\n\n\n\n\nNo matching items"
+  }
+]
