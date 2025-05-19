@@ -6,7 +6,7 @@ project:
 website:
   title: "Raeesa Ganey"
   favicon: logo.png
-  site-url: https://github.com/dicook/dicook-quarto
+  site-url: https://raeesaganey91.github.io/rganey_quarto/
   navbar:
     background: primary
     search: true
@@ -21,7 +21,7 @@ website:
         href: talks.qmd
     right:
       - icon: github
-        href: https://github.com/dicook/dicook-quarto      
+        href: https://github.com/RaeesaGaney91/rganey_quarto    
 
 body-footer: | 
   Copyright:  Raeesa Ganey, 2025
