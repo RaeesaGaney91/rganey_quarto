@@ -1,0 +1,26 @@
+---
+title: "Raeesa Ganey"
+comments: false
+image: RG.jpg
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: round
+  links:
+    - icon: envelope
+      href: mailto:raeesa.ganey@wits.ac.za
+    - icon: github
+      href: https://github.com/RaeesaGaney91
+    - icon: linkedin
+      href: https://www.linkedin.com/in/raeesaganey/
+    - text: University of Witwatersrand
+      href: https://www.wits.ac.za/people/academic-a-z-listing/g/raeesaganeywitsacza/
+    - text: MuViSU
+      href: https://www.sun.ac.za/english/faculty/economy/MuViSU
+---
+
+::: {#hero-heading}
+
+Raeesa Ganey is a Lecturer of Statistics at the University of Witwatersrand. 
+
+:::

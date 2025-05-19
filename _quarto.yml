@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+  resources: files
+
+website:
+  title: "Raeesa Ganey"
+  favicon: logo.png
+  site-url: https://github.com/dicook/dicook-quarto
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Education
+        href: education.qmd
+      - text: Blog
+        href: blog.qmd
+      - text: Talks
+        href: talks.qmd
+    right:
+      - icon: github
+        href: https://github.com/dicook/dicook-quarto      
+
+body-footer: | 
+  Copyright:  Raeesa Ganey, 2025
+
+date-format: "D MMMM YYYY"
+
+format:
+  html:
+    theme: 
+      - pulse
+      - custom.scss
+    toc: true
+
