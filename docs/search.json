@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "posts/2025-05-19-my-first-blog-post/index.html",
-    "href": "posts/2025-05-19-my-first-blog-post/index.html",
-    "title": "My first blog post",
-    "section": "",
-    "text": "library(biplotEZ)\n\nWelcome to biplotEZ! \nThis package is used to construct biplots \nRun ?biplot or vignette() for more information\n\n\n\nAttaching package: 'biplotEZ'\n\n\nThe following object is masked from 'package:stats':\n\n    biplot\n\nbiplot(iris) |> PCA() |> plot()"
-  },
-  {
     "objectID": "talks.html",
     "href": "talks.html",
     "title": "Talks and Seminars",
@@ -53,6 +46,6 @@
     "href": "blog.html",
     "title": "Raeesa Ganey",
     "section": "",
-    "text": "My first blog post\n\n\n\n\n\n\n\nR\n\n\n\n\n\n\n\n\n\n\n\n19 May 2025\n\n\nRaeesa Ganey\n\n\n\n\n\n\nNo matching items"
+    "text": "No matching items"
   }
 ]

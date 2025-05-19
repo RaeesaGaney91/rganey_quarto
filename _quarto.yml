@@ -15,8 +15,6 @@ website:
         href: index.qmd
       - text: Education
         href: education.qmd
-      - text: Blog
-        href: blog.qmd
       - text: Talks
         href: talks.qmd
     right:
