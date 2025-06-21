@@ -4,14 +4,14 @@
     "href": "talks.html",
     "title": "Talks and Seminars",
     "section": "",
-    "text": "date\n      title\n      location\n      details\n    \n  \n  \n    May 2025\nVisualising Group Separation in High Dimensions: Canonical Variate Analysis Biplots via the Generalised Singular Value Decomposition\nMonash University\nNUMBATS Seminar"
+    "text": "date\ntitle\nlocation\ndetails\n\n\n\n\nMay 2025\nVisualising Group Separation in High Dimensions: Canonical Variate Analysis Biplots via the Generalised Singular Value Decomposition\nMonash University\nNUMBATS Seminar"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Raeesa Ganey",
     "section": "",
-    "text": "Raeesa Ganey is a Lecturer of Statistics at the University of Witwatersrand."
+    "text": "Raeesa Ganey is a Lecturer in the School of Statistics and Actuarial Science at the University of the Witwatersrand, where she has been teaching since October 2015.\nI began my academic journey at North-West University, earning a BSc in Actuarial Science, and later moved to the University of Cape Town to complete my BCom Honours, MSc, and PhD in Statistics. I currently teach second-year Mathematical Statistics and third-year Multivariate Data Analysis.\nMy research centers on multivariate data visualisation, with a particular focus on biplots — developing both theoretical extensions and practical tools in R for high-dimensional and dynamic data.\nI’m an active member of the Centre for Multi-Dimensional Data Visualisation (MuViSU), the South African Statistical Association (SASA), and the Multivariate Data Analysis Group (MDAG) within SASA.\nOutside of academia, I share life’s chaos and joy with my husband Zain, our two wonderful children — and baby number three, expected in October 2025!"
   },
   {
     "objectID": "education.html",
@@ -47,5 +47,12 @@
     "title": "Raeesa Ganey",
     "section": "",
     "text": "No matching items"
+  },
+  {
+    "objectID": "education.html#degrees",
+    "href": "education.html#degrees",
+    "title": "Education",
+    "section": "",
+    "text": "Year\nDegree\nInstitution\n\n\n\n\n2011\nB.Sc Actuarial Science\nNorth-West University, Potchefstroom\n\n\n2012\nBCom Honours Statistics\nUniversity of Cape Town\n\n\n2014\nM.Sc (Statistics)\nUniversity of Cape Town\n\n\n2020\nPh.D (Statistics)\nUniversity of Cape Town"
   }
 ]
