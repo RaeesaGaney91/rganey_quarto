@@ -17,6 +17,10 @@ website:
         href: education.qmd
       - text: Talks
         href: talks.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Software
+        href: software.qmd
     right:
       - icon: github
         href: https://github.com/RaeesaGaney91/rganey_quarto    

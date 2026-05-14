@@ -1,8 +1,10 @@
 ---
-title: "Talks and Seminars"
+title: "Presentations"
 ---
 
-```{r}
+## International Conferences
+
+```{r,warning=FALSE}
 #| echo: false
 #| message: false
 library(readr)
@@ -10,20 +12,54 @@ library(dplyr)
 library(gt)
 library(glue)
 library(lubridate)
-talks <- read_csv("talks.csv")
+talks <- read_csv("talksInt.csv")
 talks <- talks |>
-  mutate(date = date) |>
-  mutate(titlelink = ifelse(is.na(link), title, glue("[{title}]({link})"))) 
+  mutate(Date = dmy(Date)) |>
+  mutate(titlelink = ifelse(is.na(Link), Title, glue("[{Title}]({Link})"))) 
+
 talks |>
-  arrange(desc(date)) |>
-  select(date, titlelink, location, details) |>
+  arrange(desc(Date)) |>
+  mutate(Date = format(Date, "%b-%y")) |>
+  select(Date, titlelink, Event, Location) |>
   gt() |>
     gt::fmt_markdown(columns = titlelink) |>
-    cols_label(titlelink = "title") |> 
+    cols_label(titlelink = "Title") |> 
     gt::cols_width(
-      date ~ px(100),
+      Date ~ px(100),
       titlelink ~ px(400),
-      location ~ px(250),
-      details ~ px(100)) |>
+      Event ~ px(250),
+      Location ~ px(100)) |>
+  cols_align("left")
+```
+
+
+## Seminars and workshops
+
+```{r,warning=FALSE}
+#| echo: false
+#| message: false
+library(readr)
+library(dplyr)
+library(gt)
+library(glue)
+library(lubridate)
+
+talks <- read_csv("seminars.csv")
+talks <- talks |>
+  mutate(Date = Date) |>
+  mutate(titlelink = ifelse(is.na(Link), Title, glue("[{Title}]({Link})"))) 
+
+talks |>
+  arrange(desc(Date)) |>
+  mutate(Date = format(Date, "%b-%y")) |>
+  select(Date, titlelink, Location, Details) |>
+  gt() |>
+    gt::fmt_markdown(columns = titlelink) |>
+    cols_label(titlelink = "Title") |> 
+    gt::cols_width(
+      Date ~ px(100),
+      titlelink ~ px(400),
+      Location ~ px(250),
+      Details ~ px(100)) |>
   cols_align("left")
 ```

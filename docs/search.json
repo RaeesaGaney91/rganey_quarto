@@ -2,16 +2,16 @@
   {
     "objectID": "talks.html",
     "href": "talks.html",
-    "title": "Talks and Seminars",
+    "title": "Presentations",
     "section": "",
-    "text": "date\ntitle\nlocation\ndetails\n\n\n\n\nMay 2025\nVisualising Group Separation in High Dimensions: Canonical Variate Analysis Biplots via the Generalised Singular Value Decomposition\nMonash University\nNUMBATS Seminar"
+    "text": "Date\nTitle\nEvent\nLocation\n\n\n\n\nJul-25\nBiplot visualisations to map climate change in African regions\nDSSV 2025\nSouth Africa\n\n\nJul-25\nPart 1: Visualising Long-Term Shifts in African Climate Conditions Using Biplots\nNWU-Purdue 2025\nSouth Africa\n\n\nJul-25\nPart 2: Dynamic Biplot Animations for Temporal Climate Pattern Exploration\nNWU-Purdue 2025\nSouth Africa\n\n\nOct-23\nAspects of Multidimensional Visualisation\nIDWSDS 2023\nOnline\n\n\nAug-23\nHigh-dimensional LDA biplot through the GSVD\nCOMPSTAT 2023\nUnited Kingdom\n\n\nFeb-19\nApplications of the Principal Surface Biplot\nCARME 2019\nSouth Africa\n\n\nJul-18\nVisualizing Multivariate Data using Principal Surfaces Biplots\nDSSV 2018\nAustria\n\n\nJul-18\nA biplot based on a principal surface\nECDA 2018\nGermany\n\n\nAug-17\nBiplots based on Principal Surfaces\nIFCS 2017\nJapan"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Raeesa Ganey",
     "section": "",
-    "text": "I am a Lecturer in the School of Statistics and Actuarial Science at the University of the Witwatersrand, where I have been teaching since October 2015.\nI began my academic journey at North-West University, earning a BSc in Actuarial Science, and later moved to the University of Cape Town to complete my BCom Honours, MSc, and PhD in Statistics. I currently teach second-year Mathematical Statistics and third-year Multivariate Data Analysis.\nMy research centers on multivariate data visualisation, with a particular focus on biplots — developing both theoretical extensions and practical tools in R for high-dimensional and dynamic data.\nI’m an active member of the Centre for Multi-Dimensional Data Visualisation (MuViSU), the South African Statistical Association (SASA), and the Multivariate Data Analysis Group (MDAG) within SASA.\nOutside of academia, I share life’s chaos and joy with my husband Zain, our two wonderful children — and baby number three, expected in October 2025!"
+    "text": "I am a Lecturer in the School of Statistics and Actuarial Science at the University of the Witwatersrand, where I have been teaching since October 2015.\nI began my academic journey at North-West University, earning a BSc in Actuarial Science, and later moved to the University of Cape Town to complete my BCom Honours, MSc, and PhD in Statistics. I currently teach second-year Mathematical Statistics and third-year Multivariate Data Analysis.\nMy research centers on multivariate data visualisation, with a particular focus on biplots — developing both theoretical extensions and practical tools in R for high-dimensional and dynamic data.\nI’m an active member of the Centre for Multi-Dimensional Data Visualisation (MuViSU), the South African Statistical Association (SASA), and the Multivariate Data Analysis Group (MDAG) within SASA.\nOutside of academia, I share life’s chaos and joy with my husband Zain and our three wonderful children."
   },
   {
     "objectID": "education.html",
@@ -54,5 +54,47 @@
     "title": "Education",
     "section": "",
     "text": "Year\nDegree\nInstitution\n\n\n\n\n2011\nB.Sc Actuarial Science\nNorth-West University, Potchefstroom\n\n\n2012\nBCom Honours Statistics\nUniversity of Cape Town\n\n\n2014\nM.Sc (Statistics)\nUniversity of Cape Town\n\n\n2020\nPh.D (Statistics)\nUniversity of Cape Town"
+  },
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Publications",
+    "section": "",
+    "text": "packagelast_updatereleasedversiontitledownloadshexmoveEZ13/05/202605/07/20251.2.0Animated Biplots3,942wideRhino11/06/202511/06/20251.0.2High-Dimensional Methods via Generalised Singular Decomposition1,666prinsurf12/03/202512/03/20251.0Constructs Principal Surfaces2,137biplotEZ13/11/202431/08/20232.2EZ-to-Use Biplots16,093\n\n\n\nThis page is automatically populated using pkgsearch with R with all time downloads."
+  },
+  {
+    "objectID": "software.html#r-packages",
+    "href": "software.html#r-packages",
+    "title": "Publications",
+    "section": "",
+    "text": "packagelast_updatereleasedversiontitledownloadshexmoveEZ13/05/202605/07/20251.2.0Animated Biplots3,942wideRhino11/06/202511/06/20251.0.2High-Dimensional Methods via Generalised Singular Decomposition1,666prinsurf12/03/202512/03/20251.0Constructs Principal Surfaces2,137biplotEZ13/11/202431/08/20232.2EZ-to-Use Biplots16,093\n\n\n\nThis page is automatically populated using pkgsearch with R with all time downloads."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Title\nYear\nJournal\n\n\n\n\nA canonical variate analysis biplot based on the generalized singular value decomposition\n2026\nStatistical Methods & Applications\n\n\nmoveEZ: Animated Biplots\n2025\nCRAN: Contributed Packages\n\n\nwideRhino: High-Dimensional Methods via Generalised Singular Decomposition\n2025\nCRAN: Contributed Packages\n\n\nprinsurf: Constructs Principal Surfaces\n2025\nCRAN: Contributed Packages\n\n\nbiplotEZ: EZ-to-Use Biplots\n2023\nCRAN: Contributed Packages\n\n\n\n\n\n\n\n\nThis list is automatically populated from orcid.org"
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Title\nYear\nJournal\n\n\n\n\nA canonical variate analysis biplot based on the generalized singular value decomposition\n2026\nStatistical Methods & Applications\n\n\nmoveEZ: Animated Biplots\n2025\nCRAN: Contributed Packages\n\n\nwideRhino: High-Dimensional Methods via Generalised Singular Decomposition\n2025\nCRAN: Contributed Packages\n\n\nprinsurf: Constructs Principal Surfaces\n2025\nCRAN: Contributed Packages\n\n\nbiplotEZ: EZ-to-Use Biplots\n2023\nCRAN: Contributed Packages\n\n\n\n\n\n\n\n\nThis list is automatically populated from orcid.org"
+  },
+  {
+    "objectID": "talks.html#seminars-and-workshops",
+    "href": "talks.html#seminars-and-workshops",
+    "title": "Presentations",
+    "section": "Seminars and workshops",
+    "text": "Seminars and workshops\n\n\n\n\n\n\n\n\nDate\nTitle\nLocation\nDetails\n\n\n\n\nNov-25\nBeyond multivariate applications: Quarto for reproducible interactive documents\nSouth Africa\nWorkshop\n\n\nOct-25\nDynamic biplot visualisations with moveEZ\nSouth Africa\nColloquium\n\n\nSep-25\nAI Coffee Talks\nOnline\nWebinar\n\n\nMay-25\nVisualising Group Separation in High Dimensions: Canonical Variate Analysis Biplots via the Generalised Singular Value Decomposition\nAustralia\nSeminar\n\n\nApr-25\nTwo Perspectives, One Vision\nOnline\nWebinar\n\n\nNov-24\nUser-friendly biplots in R with biplotEZ\nSouth Africa\nWorkshop\n\n\nMar-24\nA Canonical Variate Analysis Biplot based on the Generalised Singular Value Decomposition\nSouth Africa\nSeminar\n\n\nAug-23\nUser-friendly biplots in R with biplotEZ\nSouth Africa\nWorkshop\n\n\nJul-23\nPostgraduate Research Opportunities in Statistics: Multivariate Data Visualisation\nOnline\nWebinar\n\n\nNov-21\nAspects of multidimensional visualisations\nOnline\nWorkshop\n\n\nSep-18\nBiplots based on Principal Surfaces\nSouth Africa\nSeminar"
+  },
+  {
+    "objectID": "talks.html#international-conferences",
+    "href": "talks.html#international-conferences",
+    "title": "Presentations",
+    "section": "",
+    "text": "Date\nTitle\nEvent\nLocation\n\n\n\n\nJul-25\nBiplot visualisations to map climate change in African regions\nDSSV 2025\nSouth Africa\n\n\nJul-25\nPart 1: Visualising Long-Term Shifts in African Climate Conditions Using Biplots\nNWU-Purdue 2025\nSouth Africa\n\n\nJul-25\nPart 2: Dynamic Biplot Animations for Temporal Climate Pattern Exploration\nNWU-Purdue 2025\nSouth Africa\n\n\nOct-23\nAspects of Multidimensional Visualisation\nIDWSDS 2023\nOnline\n\n\nAug-23\nHigh-dimensional LDA biplot through the GSVD\nCOMPSTAT 2023\nUnited Kingdom\n\n\nFeb-19\nApplications of the Principal Surface Biplot\nCARME 2019\nSouth Africa\n\n\nJul-18\nVisualizing Multivariate Data using Principal Surfaces Biplots\nDSSV 2018\nAustria\n\n\nJul-18\nA biplot based on a principal surface\nECDA 2018\nGermany\n\n\nAug-17\nBiplots based on Principal Surfaces\nIFCS 2017\nJapan"
   }
 ]
