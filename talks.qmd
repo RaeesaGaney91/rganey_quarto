@@ -33,6 +33,38 @@ talks |>
 ```
 
 
+## Local Conferences
+```{r,warning=FALSE}
+#| echo: false
+#| message: false
+library(readr)
+library(dplyr)
+library(gt)
+library(glue)
+library(lubridate)
+talks <- read_csv("talksSA.csv")
+talks <- talks |>
+  mutate(Date = dmy(Date)) |>
+  mutate(titlelink = ifelse(is.na(Link), Title, glue("[{Title}]({Link})"))) 
+
+talks |>
+  arrange(desc(Date)) |>
+  mutate(Date = format(Date, "%b-%y")) |>
+  select(Date, titlelink, Event, Location, Author) |>
+  gt() |>
+    gt::fmt_markdown(columns = titlelink) |>
+    cols_label(titlelink = "Title") |> 
+    gt::cols_width(
+      Date ~ px(100),
+      titlelink ~ px(400),
+      Event ~ px(250),
+      Location ~ px(100),
+      Author ~ px(100)) |>
+  cols_align("left")
+```
+
+
+
 ## Seminars and workshops
 
 ```{r,warning=FALSE}

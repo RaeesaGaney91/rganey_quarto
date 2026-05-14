@@ -22,7 +22,10 @@ University of Witwatersrand
 
 ## Visits
 
-| Dates | Institution |
-|:------|:------|
-| May 19-30, 2025 | Monash University, Melbourne, Australia |
+| Dates            | Institution       | Country   | Host |
+|:-----------------|:------------------|:----------|:----------|
+| May 2025         | Monash University | Australia | Prof. Di Cook |
+| April 2024       | Stellenbosch University | South Africa | Prof S Lubbe |
+| July 2024        | Stellenbosch University | South Africa | Prof S Lubbe |
+
 
