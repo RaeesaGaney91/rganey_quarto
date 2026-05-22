@@ -21,13 +21,13 @@ about:
 
 ::: {#hero-heading}
 
-I am a Lecturer in the School of Statistics and Actuarial Science at the University of the Witwatersrand, where I have been teaching since October 2015.
+I am a Lecturer in the [School of Statistics and Actuarial Science at the University of the Witwatersrand](https://www.wits.ac.za/people/academic-a-z-listing/g/raeesaganeywitsacza/), where I have been teaching since October 2015.
 
 I began my academic journey at North-West University, earning a BSc in Actuarial Science, and later moved to the University of Cape Town to complete my BCom Honours, MSc, and PhD in Statistics. I currently teach second-year Mathematical Statistics and third-year Multivariate Data Analysis.
 
 My research centers on multivariate data visualisation, with a particular focus on biplots — developing both theoretical extensions and practical tools in `R` for high-dimensional and dynamic data.
 
-I'm an active member of the Centre for Multi-Dimensional Data Visualisation (MuViSU), the South African Statistical Association (SASA), and the Multivariate Data Analysis Group (MDAG) within SASA.
+I'm an active member of the [Centre for Multi-Dimensional Data Visualisation (MuViSU)](https://www.su.ac.za/en/faculties/economy/muvisu), the [South African Statistical Association (SASA)](https://www.sastat.org/home), and the [Multivariate Data Analysis Group (MDAG)](https://www.sastat.org/groups/mdag) within SASA. I am also an Associate of the [National Institute for Theoretical and Computational Sciences (NITheCS)](https://nithecs.ac.za/).
 
 Outside of academia, I share life’s chaos and joy with my husband Zain and our three wonderful children.
 
